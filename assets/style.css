@@ -8,3 +8,42 @@ h1 {
     background-color: white;
     border-style: solid;
 }
+
+#Today {
+    font-size: 40px;
+}
+
+#currentWeather {
+    margin-left: 0%;
+    text-align: center;
+}
+
+#box0 {
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+}
+
+#box1 {
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+}
+
+#box2 {
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+}
+
+#box3 {
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+}
+
+#box4 {
+    font-size: 30px;
+    border-style: solid;
+    background-color: white;
+}
